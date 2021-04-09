@@ -1,4 +1,4 @@
-# Rewrites Example
+# Rewrites Exampless
 
 This example shows how to use [rewrites in Next.js](https://nextjs.org/docs/api-reference/next.config.js/rewrites) to map an incoming request path to a different destination path.
 
